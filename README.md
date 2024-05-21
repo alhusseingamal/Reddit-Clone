@@ -28,5 +28,6 @@ In addition to my leadership responsibilities, I served as a tester for the web 
 
 - Web testing using Playwright and TypeScript  
 - Ensuring the website's functionality, performance, and reliability  
-- Identifying and reporting bugs and issues for timely resolution  
+- Identifying and reporting bugs and issues for timely resolution
+  
 We hope you find Threadit to be a valuable and enjoyable platform. For more details on how to get started with the project, please refer to the documentation provided in this repository.
